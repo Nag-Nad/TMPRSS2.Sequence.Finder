@@ -1,0 +1,1 @@
+# Find any parts of a sequence (e.g., TMPRSS2) from the text file. This code is interative meaning that you can insert the number of the start base and the end base and get the results in a desired path  as a txt file.
